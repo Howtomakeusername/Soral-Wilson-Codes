@@ -1,0 +1,3 @@
+Accepted solutions to VNOJ, MarisaOJ, ClueOJ, Codeforces, DMOJ, QOJ, ...
+
+Please don't copy-paste my code
